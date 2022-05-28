@@ -1,2 +1,2 @@
 # HTML-CSS-Instagramdraw
-HTML CSS Instagram front-end desing.
+HTML CSS Instagram front-end design.
